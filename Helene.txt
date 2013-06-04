@@ -3,4 +3,5 @@ Ca commit sur le net :)
 Avec David au commandes ....
 Saisie du BUG pour GitHub
 Test avec JIRA
+JIRA apres installe clef connexion
 
