@@ -8,4 +8,6 @@ JIRA troisieme essai
 C'est OK
 maintenant on test avec 2 demandes 1 et 8
 
+Premier commit sur PTSTAN-6
+
 
