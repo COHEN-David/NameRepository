@@ -5,5 +5,7 @@ Saisie du BUG pour GitHub
 Test avec JIRA
 JIRA apres installe clef connexion
 JIRA troisieme essai
+C'est OK
+maintenant on test avec 2 demandes 1 et 8
 
 
